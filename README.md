@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ABOUT ME
 --------
 
-I am student undergraduate in Computer engineering kasetsart University , Data Analysis & Knowledge Discovery Laboratory                                                                                                                                                          Interest : Artificial intelligence , Bioimfomatics , Time series , Data Mining (beginner)
+I am student undergraduate in Computer engineering kasetsart University , Data Analysis & Knowledge Discovery Laboratory                                                                                                                                                          
+
+Interest : Artificial intelligence , Bioimfomatics , Time series , Data Mining (beginner)
 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [About Me](http://sites.google.com/view/nathanonkhueanta)

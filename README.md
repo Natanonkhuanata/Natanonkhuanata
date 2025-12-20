@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nathanon Khueanta
 ==========================================================================================================================================
 
-Student at Chiangrai municipality school 6
-------------------------------------------
+ABOUT ME
+--------
 
 I am student undergraduate in Computer engineering kasetsart University , Data Analysis & Knowledge Discovery Laboratory
 

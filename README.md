@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student at Chiangrai municipality school 6
 ------------------------------------------
 
-Intrested in Artificial intelligence , Medical Ai , physical intelligence , Robotics and cyber security (beginner) , I am learning about 6 year for Arduino and 1 year for Ai and security
+Intrested in Intrested  in  Artificial  intelligence , Bioimfomatics  ,  Time series , Data Mining , Philosophy (beginner) 
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [mr.prachdeverloper@gmail.com](mailto:mr.prachdeverloper@gmail.com)

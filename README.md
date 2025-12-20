@@ -5,7 +5,6 @@ ABOUT ME
 --------
 
 I am student undergraduate in Computer engineering kasetsart University , Data Analysis & Knowledge Discovery Laboratory
-
 Interest : Artificial intelligence , Bioimfomatics , Time series , Data Mining (beginner)
 
 * 🌍  I'm based in Thailand

@@ -4,7 +4,6 @@
 - 📝 I regularly write articles on **[https://sites.google.com/view/nathanonkhueanta](https://sites.google.com/view/nathanonkhueanta)**
 ## Award
 - Junior science talent project camp 28th (JSTP28).
-- The winner of the SCB Challenge competition🥇.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

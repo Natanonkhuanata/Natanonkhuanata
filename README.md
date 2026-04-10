@@ -1,11 +1,9 @@
 # Hi 👋, I'm Prach
 
 ### I am Student Undergraduate in Computer engineering Kasetsart University
-
+- 📝 I regularly write articles on **[https://sites.google.com/view/nathanonkhueanta](https://sites.google.com/view/nathanonkhueanta)**
 ## Project
 - I am Junior science talent project camp
-##
-- 📝 I regularly write articles on **[https://sites.google.com/view/nathanonkhueanta](https://sites.google.com/view/nathanonkhueanta)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

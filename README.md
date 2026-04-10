@@ -1,9 +1,10 @@
-# Hi 👋, I'm Prach
+<img width="2500" height="2500" alt="image" src="https://github.com/user-attachments/assets/e1bc3b8d-cc4f-4fc7-a5d8-e59ae9cc2550" /># Hi 👋, I'm Prach
 
 ### I am Student Undergraduate in Computer engineering Kasetsart University
 - 📝 I regularly write articles on **[https://sites.google.com/view/nathanonkhueanta](https://sites.google.com/view/nathanonkhueanta)**
-## Project
-- I am Junior science talent project camp
+## Award
+- Junior science talent project camp 28th (JSTP28).
+- The winner of the SCB Challenge competition🥇.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,6 +3,7 @@
 ### I am Student Undergraduate in Computer engineering Kasetsart University
 - 📝 I regularly write articles on **[https://sites.google.com/view/nathanonkhueanta](https://sites.google.com/view/nathanonkhueanta)**
 ## Award
+- JSTP-SCB Scholarship Program (8th Cohort)! 🎉
 - Junior science talent project camp 28th (JSTP28).
 - The winner of the SCB Challenge competition🥇.
 <h3 align="left">Connect with me:</h3>

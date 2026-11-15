@@ -5,7 +5,7 @@
 ## Award
 - JSTP-SCB Scholarship Program (8th Cohort)! 🎉
 - Junior science talent project camp 28th (JSTP28).
-- The winner of the SCB Challenge competition🥇.
+- The winner of the SCB Challenge competition 2026🥇.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/https://github.com/Natanonkhuanata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/Natanonkhuanata" height="30" width="40" /></a>
